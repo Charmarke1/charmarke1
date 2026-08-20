@@ -31,18 +31,25 @@ finishing school, with a longer-term goal of landing in a DevOps role.
 
 **Help Desk Ticketing System (osTicket)**
 Deployed and configured a self-hosted help desk ticketing system end to end.
-- [Prerequisites & Installation](./post-install-config)
-- [Post-Install Configuration](./post-install-config)
-- [Ticket Lifecycle Examples](./ticket-lifecycle)
+- [Prerequisites & Installation](https://github.com/Charmarke1/osticket-prereqs)
+- [Post-Install Configuration](https://github.com/Charmarke1/post-install-config)
+- [Ticket Lifecycle Examples](https://github.com/Charmarke1/ticket-lifecycle)
 
 **Microsoft Azure & Networking Labs**
 Hands-on labs covering core infrastructure and security fundamentals in Azure.
-- [Network Security Groups (NSGs) & Protocol Inspection](./azure-network-protocols)
-- [Monitoring Login Events with Group Policy & Event Viewer](./azure-network-protocols)
-- [Configuring On-Premises Active Directory in Azure VMs](./configure-ad)
-- [DNS Management & Practices](./configure-ad)
-- [Network Shares & File Permission Management](./configure-ad)
-- [VPN Setup & Usage](./vpn-lab)
+- [Network Security Groups (NSGs) & Protocol Inspection](https://github.com/Charmarke1/azure-network-protocols)
+- [Monitoring Login Events with Group Policy & Event Viewer](https://github.com/Charmarke1/event-viewer-)
+- [Configuring On-Premises Active Directory in Azure VMs](https://github.com/Charmarke1/configure-ad)
+- [DNS Management & Practices](https://github.com/Charmarke1/dns-lab)
+- [Network Shares & File Permission Management](https://github.com/Charmarke1/network-file-share-lab)
+- [VPN Setup & Usage](https://github.com/Charmarke1/vpn-lab)
+
+**Djibouti Marketplace** — Flutter + Supabase
+A cross-platform buyer/seller marketplace mobile app, currently in active development.
+- Register/login, switch to seller mode, list and browse products
+- PostgreSQL backend via Supabase, with row-level security so sellers can only manage their own listings
+- Phase 1 complete; messaging, image uploads, and local payment gateway integration planned next
+- [View repository](https://github.com/Charmarke1/Djibouti-Marketplace)
 
 ---
 
@@ -50,7 +57,7 @@ Hands-on labs covering core infrastructure and security fundamentals in Azure.
 
 `Windows Server` `IIS` `Apache Tomcat` `SQL Server / SSMS` `Active Directory` `DNS`
 `VPN` `Microsoft Azure` `AWS` `SSL/TLS` `Octopus Deploy` `Jira Service Management`
-`Git` `PowerShell` `Bash`
+`Git` `PowerShell` `Bash` `Flutter` `Dart` `Supabase` `PostgreSQL`
 
 ---
 

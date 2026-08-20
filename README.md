@@ -1,23 +1,66 @@
-<h1>Hi, I'm charmarke, an <a href="https://www.linkedin.com/in/charmarke-abdi-1768a9342/">IT Professional</a>☺</h1>
+# Hi, I'm Charko 👋
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+**IT Support & Deployment Operations** — building toward DevOps
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/charmarke1/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/charmarke1/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/charmarke1/ticket-lifecycle)
-- <b>Microsoft Azure</b>
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/charmarke1/azure-network-protocols)
-  - [Azure Lab: Monitoring Login Events with Group Policy and Event Viewer](https://github.com/Charmarke1/event-viewer-)
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/charmarke1/configure-ad)
-  - [Exploring DNS Management and Practices](https://github.com/charmarke1/dns-lab)
-  - [Network Shares and File Permission Management](https://github.com/charmarke1/network-file-share-lab)
-  - [VPN Setup and Usage](https://github.com/charmarke1/vpn-lab)
+14+ months of hands-on production support experience at Tyler Technologies (SaaS + on-prem
+ERP deployments, SSL certificate management, incident triage), backed by self-directed labs
+in cloud infrastructure and networking. Currently looking for part-time IT support work while
+finishing school, with a longer-term goal of landing in a DevOps role.
 
-<h2>🤳Connect with me:</h2>
+---
 
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+## 💼 Professional Experience
 
+**Tyler Technologies** — TSM Support Technician (Intern), SaaS & OnPrem · 14+ months
 
+- Diagnosed and resolved production deployment failures across a multi-step pipeline (SSL
+  bindings, host header conflicts, missing runtime prerequisites, service account issues)
+- Owned the full SSL/TLS certificate lifecycle for production servers — PFX → PEM conversion,
+  chain validation, IIS/Apache configuration
+- Primary owner of daily infrastructure health monitoring across AWS-hosted SaaS, on-prem, and
+  mid-migration client environments
+- Performed SQL Server database administration — backups, refreshes, ODBC connectivity, ad hoc
+  queries
+- Trained and onboarded 3 incoming interns
 
-[linkedin]:https://www.linkedin.com/in/charmarke-abdi-1768a9342/
+*(Full write-up with detailed case studies: [portfolio link — add once available])*
+
+---
+
+## 🛠️ Projects
+
+**Help Desk Ticketing System (osTicket)**
+Deployed and configured a self-hosted help desk ticketing system end to end.
+- [Prerequisites & Installation](./post-install-config)
+- [Post-Install Configuration](./post-install-config)
+- [Ticket Lifecycle Examples](./ticket-lifecycle)
+
+**Microsoft Azure & Networking Labs**
+Hands-on labs covering core infrastructure and security fundamentals in Azure.
+- [Network Security Groups (NSGs) & Protocol Inspection](./azure-network-protocols)
+- [Monitoring Login Events with Group Policy & Event Viewer](./azure-network-protocols)
+- [Configuring On-Premises Active Directory in Azure VMs](./configure-ad)
+- [DNS Management & Practices](./configure-ad)
+- [Network Shares & File Permission Management](./configure-ad)
+- [VPN Setup & Usage](./vpn-lab)
+
+---
+
+## 🧰 Tools & Technologies
+
+`Windows Server` `IIS` `Apache Tomcat` `SQL Server / SSMS` `Active Directory` `DNS`
+`VPN` `Microsoft Azure` `AWS` `SSL/TLS` `Octopus Deploy` `Jira Service Management`
+`Git` `PowerShell` `Bash`
+
+---
+
+## 🎯 Currently
+
+- 📚 Finishing my degree part-time
+- ☁️ Building AWS + Terraform + CI/CD fundamentals toward a DevOps role
+- 💼 Open to part-time IT Support / Help Desk work this fall
+
+## 📫 Connect
+
+- Email: oubesh1@gmail.com
+- LinkedIn: [add your LinkedIn URL]

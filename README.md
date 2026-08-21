@@ -1,4 +1,4 @@
-# Hi, I'm Charko 👋
+# Hi, I'm Charmarke 👋
 
 **IT Support & Deployment Operations**
 
@@ -44,13 +44,6 @@ Hands-on labs covering core infrastructure and security fundamentals in Azure.
 - [Network Shares & File Permission Management](https://github.com/Charmarke1/network-file-share-lab)
 - [VPN Setup & Usage](https://github.com/Charmarke1/vpn-lab)
 
-**Djibouti Marketplace** — Flutter + Supabase
-A cross-platform buyer/seller marketplace mobile app, currently in active development.
-- Register/login, switch to seller mode, list and browse products
-- PostgreSQL backend via Supabase, with row-level security so sellers can only manage their own listings
-- Phase 1 complete; messaging, image uploads, and local payment gateway integration planned next
-- [View repository](https://github.com/Charmarke1/Djibouti-Marketplace)
-
 ---
 
 ## 🧰 Tools & Technologies
@@ -70,4 +63,4 @@ A cross-platform buyer/seller marketplace mobile app, currently in active develo
 ## 📫 Connect
 
 - Email: oubesh1@gmail.com
-- LinkedIn: [www.linkedin.com/in/charmarke-a-1768a9342]
+- LinkedIn: www.linkedin.com/in/charmarke-a-1768a9342

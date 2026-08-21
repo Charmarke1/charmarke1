@@ -1,6 +1,6 @@
 # Hi, I'm Charko 👋
 
-**IT Support & Deployment Operations** — building toward DevOps
+**IT Support & Deployment Operations**
 
 14+ months of hands-on production support experience at Tyler Technologies (SaaS + on-prem
 ERP deployments, SSL certificate management, incident triage), backed by self-directed labs
@@ -55,9 +55,9 @@ A cross-platform buyer/seller marketplace mobile app, currently in active develo
 
 ## 🧰 Tools & Technologies
 
-`Windows Server` `IIS` `Apache Tomcat` `SQL Server / SSMS` `Active Directory` `DNS`
+`Windows Server` `IIS` `Apache Tomcat` `SQL Server / SSMS`
 `VPN` `Microsoft Azure` `AWS` `SSL/TLS` `Octopus Deploy` `Jira Service Management`
-`Git` `PowerShell` `Bash` `Flutter` `Dart` `Supabase` `PostgreSQL`
+`Git` `PowerShell` `Bash` `Flutter` `Dart` `PostgreSQL` `Octopus Deploy` 
 
 ---
 
@@ -70,4 +70,4 @@ A cross-platform buyer/seller marketplace mobile app, currently in active develo
 ## 📫 Connect
 
 - Email: oubesh1@gmail.com
-- LinkedIn: [add your LinkedIn URL]
+- LinkedIn: [www.linkedin.com/in/charmarke-a-1768a9342]

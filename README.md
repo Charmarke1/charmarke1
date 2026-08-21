@@ -62,5 +62,6 @@ Hands-on labs covering core infrastructure and security fundamentals in Azure.
 
 ## 📫 Connect
 
-- Email: oubesh1@gmail.com
-- LinkedIn: www.linkedin.com/in/charmarke-a-1768a9342
+- ✉️ Email: oubesh1@gmail.com
+- 🔗 LinkedIn: www.linkedin.com/in/charmarke-a-1768a9342
+- 📱(207)-318-9629

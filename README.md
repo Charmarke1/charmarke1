@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=0D9488&center=true&vCenter=true&width=720&lines=IT+Support+%26+Deployment+Operations;SSL%2FTLS+%C2%B7+SQL+Server+%C2%B7+AWS+%C2%B7+PowerShell;Building+toward+DevOps+with+Terraform+%26+CI%2FCD" alt="Typing animation" />
 
-**14+ months of production support at Tyler Technologies** — SaaS and on-prem ERP deployments, SSL certificate management, and incident triage — backed by self-directed labs in cloud infrastructure and networking.
+**production support at Tyler Technologies** — SaaS and on-prem ERP deployments, SSL certificate management, and incident triage — backed by self-directed labs in cloud infrastructure and networking.
 
 <a href="https://www.linkedin.com/in/charmarke-a-1768a9342"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:oubesh1@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>

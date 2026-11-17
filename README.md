@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f4e79,100:0d9488&height=170&section=header&text=Hi%2C%20I%27m%20Charmarke&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=IT%20Support%20%26%20Deployment%20Operations%20%E2%86%92%20DevOps&descAlignY=60&descSize=18" alt="Header banner" width="100%" />
+<h1>Hi, I'm Charmarke 👌<h1>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=0D9488&center=true&vCenter=true&width=720&lines=IT+Support+%26+Deployment+Operations;SSL%2FTLS+%C2%B7+SQL+Server+%C2%B7+AWS+%C2%B7+PowerShell;Building+toward+DevOps+with+Terraform+%26+CI%2FCD" alt="Typing animation" />
 
